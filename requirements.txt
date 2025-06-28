@@ -1,0 +1,5 @@
+Flask==2.3.3
+requests==2.31.0
+rdkit-pypi==2023.3.1b1
+Pillow==10.0.1
+# Note: tkinter is included with Python installation and doesn't need to be installed separately 
